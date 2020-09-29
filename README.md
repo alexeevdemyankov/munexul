@@ -1,0 +1,2 @@
+# munexul
+Wordpress domain plugin
